@@ -5,3 +5,5 @@
 3. Сделайте pip install -r requirments.txt, чтобы установить нужные зависимости
 4. Запустите файл app.py (python app.py) и следуте вашему localhost (в консоли)
 5. Добавьте get запрос в строку поиска /wiki будет выведена строка json /wiki?pretty - форматированная строка
+
+Технологии, которые использовались: Postgres, Flask, Blueprint, SQL injections
